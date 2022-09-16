@@ -27,7 +27,6 @@ jobs:
           plugin_languages: yes
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_gist: yes
           plugin_people: yes
           plugin_people_types: followers, following
           plugin_people_limit: 28
