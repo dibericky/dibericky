@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1018 Commits
+                            1010 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -321,14 +321,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.11403005939934" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="236.11403005939934" y="0" width="63.423497395612465" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="299.5375274550118" y="0" width="39.91852697829628" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="339.4560544333081" y="0" width="37.536448264667776" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="376.9925026979759" y="0" width="35.69754740102304" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="412.69005009899894" y="0" width="29.09415277708724" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="441.78420287608617" y="0" width="10.867424829566891" height="8" fill="#60B5CC"/>
-                    <rect mask="url(#languages-bar)" x="452.6516277056531" y="0" width="7.348372294346974" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.0322285453666" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="236.0322285453666" y="0" width="63.40152437642801" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="299.43375292179456" y="0" width="39.90469723703118" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="339.33845015882576" y="0" width="37.52344379263919" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="376.86189395146494" y="0" width="35.685180014705814" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="412.5470739661708" y="0" width="29.243439758041056" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="441.79051372421185" y="0" width="10.863659819057043" height="8" fill="#60B5CC"/>
+                    <rect mask="url(#languages-bar)" x="452.65417354326894" y="0" width="7.345826456731127" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2390,6 +2390,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2411,7 +2416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fourlastor/libgdx-kotlin-base</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2701,7 +2706,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Oct 2023, 02:35:55 (timezone Europe/Rome) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 18 Oct 2023, 02:35:45 (timezone Europe/Rome) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
